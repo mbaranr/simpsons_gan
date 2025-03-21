@@ -22,8 +22,8 @@ This repository showcases two of the most relevant generative models (built in p
 
 ## Credits
 
-* [m4mbo](https://github.com/m4mbo) - Code
-* [LMH](https://www.lmh.ox.ac.uk/) summer program on 'AI and ML: Advanced Applications' - Theory
+* [m4mbo](https://github.com/m4mbo) - Code.
+* [LMH](https://www.lmh.ox.ac.uk/) summer program on 'AI and ML: Advanced Applications' - Theory.
 
 <div align="center">
   <img src="res/variety.png" alt="demo" width="900"/>
