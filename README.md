@@ -22,7 +22,7 @@ This repository showcases two of the most relevant generative models (built in p
 
 ## Credits
 
-* [mbaranr](https://github.com/m4mbo) - Code.
+* [mbaranr](https://github.com/mbaranr) - Code.
 * [LMH](https://www.lmh.ox.ac.uk/) summer program on 'AI and ML: Advanced Applications' - Theory.
 
 <div align="center">
